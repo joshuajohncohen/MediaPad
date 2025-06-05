@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "/Users/jjcohen/hackpads/libs/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "Encoders")(type "KiCad")(uri "/Users/jjcohen/hackpads/libs/Rotary_Encoder.pretty")(options "")(descr ""))
+  (lib (name "OLED")(type "KiCad")(uri "/Users/jjcohen/hackpads/libs/OLED")(options "")(descr ""))
+  (lib (name "3D Models-lib")(type "KiCad")(uri "/Users/jjcohen/hackpads/libs/3D Models-lib")(options "")(descr ""))
+)
